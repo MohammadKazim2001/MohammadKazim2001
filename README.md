@@ -1,6 +1,6 @@
 #  Hello, I'm Mohammad Kazim Amiri
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=38BCF7&width=500&lines=Full-Stack+Web+Developer;Laravel+%7C+React+Specialist;Open-Source+Contributor;Problem+Solver+%F0%9F%A7%A0)](https://git.io/typing-svg)
-<img src="https://i.imgur.com/m7rxv6h.png" width="100%" alt="divider">
+<hr style="height:0.5px; border:none; color:gray; background-color:gray; margin: 4px 0;">
 Results-driven Web Developer with expertise in HTML, CSS, JavaScript,
 Bootstrap, Tailwind, and React.js for frontend development, and
 PHP/Laravel for backend solutions. Passionate about building
@@ -8,7 +8,7 @@ responsive, user-friendly websites and applications. Seeking to
 leverage my technical skills and creativity to contribute to innovative
 web solutions
 
----
+<hr style="height:0.5px; border:none; color:gray; background-color:gray; margin: 4px 0;">
 
 ### 🛠️ **Tech Stack**  
 
