@@ -1,5 +1,6 @@
 # 👋 Hello, I'm Mohammad Kazim  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F72D&width=435&lines=Full-Stack+Web+Developer;Open-Source+Enthusiast;Always+Learning+%F0%9F%93%9A)](https://git.io/typing-svg)
+
 Results-driven Web Developer with expertise in HTML, CSS, JavaScript,
 Bootstrap, Tailwind, and React.js for frontend development, and
 PHP/Laravel for backend solutions. Passionate about building
