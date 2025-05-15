@@ -32,7 +32,7 @@ web solutions
 
 ---
 
-Working Projects
+#### **Working Projects**  
 🔹 **[Classified Marketplace](https://github.com/mohammadkazim/classified-marketplace)**  
 React + Tailwind + Laravel platform for buying/selling new/used items  
 
