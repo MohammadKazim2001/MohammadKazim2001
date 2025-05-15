@@ -1,6 +1,5 @@
 #  Hello, I'm Mohammad Kazim Amiri
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=38BCF7&width=500&lines=Full-Stack+Web+Developer;Laravel+%7C+React+Specialist;Open-Source+Contributor;Problem+Solver+%F0%9F%A7%A0)](https://git.io/typing-svg)
-
 Results-driven Web Developer with expertise in HTML, CSS, JavaScript,
 Bootstrap, Tailwind, and React.js for frontend development, and
 PHP/Laravel for backend solutions. Passionate about building
@@ -33,7 +32,7 @@ web solutions
 
 ---
 
-#### **Working Projects**  
+#### 📌 **Working Projects**  
 🔹 **[Classified Marketplace](https://github.com/mohammadkazim/classified-marketplace)**  
 React + Tailwind + Laravel platform for buying/selling new/used items  
 
@@ -46,12 +45,3 @@ Next js + Tailwind/Node js + Express js + MongoDB/Team work and code solutions
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-kazim-amiri-111210323)
 [![Gmail](https://img.shields.io/badge/Gmail-mohmmad.kazimamiri2001@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohmmad.kazimamiri2001@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow%20my%20work-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohammadkazim)
-
----
-
-⚡ **Coding Philosophy:**  
-*"Write code that humans can understand, not just machines."*  
-
-🌱 **Currently Learning:** Advanced React Patterns & Microservices Architecture  
-
-📌 **Fun Fact:** I debug best with green tea in one hand and console.log() in the other! 🍵
