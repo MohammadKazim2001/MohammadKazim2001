@@ -1,6 +1,13 @@
 # 👋 Hello, I'm Mohammad Kazim  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=38BCF7&width=500&lines=Full-Stack+Web+Developer;Laravel+%7C+React+Specialist;Open-Source+Contributor;Problem+Solver+%F0%9F%A7%A0)](https://git.io/typing-svg)
 
+Results-driven Web Developer with expertise in HTML, CSS, JavaScript,
+Bootstrap, Tailwind, and React.js for frontend development, and
+PHP/Laravel for backend solutions. Passionate about building
+responsive, user-friendly websites and applications. Seeking to
+leverage my technical skills and creativity to contribute to innovative
+web solutions
+
 🎓 **Information Systems Student** @ Kabul Polytechnic University  
 💻 **Passionate Developer** Building Web Solutions with Modern Tech  
 
@@ -38,8 +45,8 @@
 🔹 **[Classified Marketplace](https://github.com/mohammadkazim/classified-marketplace)**  
 React + Tailwind + Laravel platform for buying/selling new/used items  
 
-🔹 **[University Management System](https://github.com/mohammadkazim/university-system)**  
-PHP/Laravel solution for academic institutions  
+🔹 **[Blog-Post-App](https://github.com/mohammadkazim/university-system)**  
+Next js + Tailwind/Node js + Express js + MongoDB/Team work and code solutions
 
 ---
 
