@@ -8,6 +8,8 @@ responsive, user-friendly websites and applications. Seeking to
 leverage my technical skills and creativity to contribute to innovative
 web solutions
 
+---
+
 🎓 **Information Systems Student** @ Kabul Polytechnic University  
 💻 **Passionate Developer** Building Web Solutions with Modern Tech  
 
