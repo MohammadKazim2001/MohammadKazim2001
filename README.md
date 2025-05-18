@@ -30,12 +30,12 @@ web solutions.
 ### 📊 GitHub Analytics  
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MohammadKazim2001&show_icons=true&count_private=true&theme=algolia&hide_border=true&include_all_commits=true&line_height=24" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadKazim2001&layout=compact&theme=algolia&hide_border=true&langs_count=6" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=MohammadKazim2001&show_icons=true&count_private=true&theme=algolia&hide_border=true&include_all_commits=true&line_height=20" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammadKazim2001&theme=algolia&hide_border=true" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadKazim2001&layout=compact&theme=algolia&hide_border=true&langs_count=5" />
+  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=MohammadKazim2001&theme=algolia&hide_border=true" />
 </p>
 
 ---
@@ -52,4 +52,4 @@ Next js + Tailwind/Node js + Express js + MongoDB/Team work and code solutions
 ### 📫 Let's Collaborate!  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-kazim-amiri-111210323)
 [![Gmail](https://img.shields.io/badge/Gmail-mohmmad.kazimamiri2001@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohmmad.kazimamiri2001@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow%20my%20work-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohammadKazimAmiri)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow%20my%20work-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohammadKazim2001)
