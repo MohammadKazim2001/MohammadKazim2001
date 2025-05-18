@@ -30,21 +30,21 @@ web solutions.
 ### 📊 GitHub Analytics  
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MohammadKazimAmiri2001&show_icons=true&count_private=true&theme=algolia&hide_border=true&include_all_commits=true&line_height=24" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadKazimAmiri&layout=compact&theme=algolia&hide_border=true&langs_count=6" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MohammadKazim2001&show_icons=true&count_private=true&theme=algolia&hide_border=true&include_all_commits=true&line_height=24" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadKazim2001&layout=compact&theme=algolia&hide_border=true&langs_count=6" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammadKazimAmiri2001&theme=algolia&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammadKazim2001&theme=algolia&hide_border=true" />
 </p>
 
 ---
 
 #### 📌 Working Projects  
-🔹 **[Classified Marketplace](https://github.com/MohammadKazimAmiri/classified-marketplace)**  
+🔹 **[Classified Marketplace](https://github.com/MohammadKazim2001/classified-marketplace)**  
 React + Tailwind + Laravel platform for buying/selling new/used items  
 
-🔹 **[Blog-Post-App](https://github.com/MohammadKazimAmiri/university-system)**  
+🔹 **[Blog-Post-App](https://github.com/MohammadKazim2001/university-system)**  
 Next js + Tailwind/Node js + Express js + MongoDB/Team work and code solutions
 
 ---
