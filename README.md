@@ -30,12 +30,12 @@ web solutions.
 ### 📊 GitHub Analytics  
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MohammadKazimAmiri&show_icons=true&count_private=true&theme=algolia&hide_border=true&include_all_commits=true&line_height=24" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MohammadKazimAmiri2001&show_icons=true&count_private=true&theme=algolia&hide_border=true&include_all_commits=true&line_height=24" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadKazimAmiri&layout=compact&theme=algolia&hide_border=true&langs_count=6" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammadKazimAmiri&theme=algolia&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammadKazimAmiri2001&theme=algolia&hide_border=true" />
 </p>
 
 ---
