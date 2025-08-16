@@ -54,6 +54,9 @@ Next js + Tailwind/Node js + Express js + MongoDB/Team work and code solutions
 ---
 
 ### 📫 Let's Collaborate!  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-kazim-amiri-111210323)
-[![Gmail](https://img.shields.io/badge/Gmail-mohmmad.kazimamiri2001@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohmmad.kazimamiri2001@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow%20my%20work-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohammadKazim2001)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-kazim-amiri-111210323)  
+[![Gmail](https://img.shields.io/badge/Gmail-mohmmad.kazimamiri2001@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohmmad.kazimamiri2001@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-Follow%20my%20work-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohammadKazim2001)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-View%20My%20Work-4CAF50?style=for-the-badge&logo=appveyor&logoColor=white)](https://kazim-porfolio.vercel.app/)
+
