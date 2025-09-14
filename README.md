@@ -1,12 +1,17 @@
 # Hello, I'm Mohammad Kazim Amiri
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=38BCF7&width=500&lines=Full-Stack+Web+Developer;Laravel+%7C+React+Specialist;Open-Source+Contributor;Problem+Solver+%F0%9F%A7%A0)](https://git.io/typing-svg)
 
-A results-driven Web Developer with expertise in HTML, CSS, JavaScript,
-Bootstrap, Tailwind, and React.js for frontend development, and
-PHP/Laravel for backend solutions. Passionate about building
-responsive, user-friendly websites and applications. Seeking to
-leverage my technical skills and creativity to contribute to innovative
-web solutions.
+A creative anddetail-oriented Web Developer specializing in modern frontend
+development with React.js and Tailwind CSS, and robust backend
+solutions using PHP/Laravel, Node.js, Express.js, and MongoDB. I’m
+passionate about building responsive, intuitive, and visually
+engaging web applications that provide real value to users. With a
+solid foundation in HTML, CSS, JavaScript, and Bootstrap, along with
+strong skills in Git and GitHub for efficient version control and
+collaboration, I continuously refine my abilities to craft
+innovative digital experiences. Eager to apply my expertise,
+problem-solving mindset, and creativity to develop impactful
+solutions.
 
 <hr style="height:0.5px; border:none; color:gray; background-color:gray; margin: 4px 0;">
 
@@ -53,11 +58,9 @@ web solutions.
 ---
 
 #### 📌 Working Projects  
-🔹 **[Online Classified Marketplace](https://github.com/MohammadKazim2001/classified-marketplace)**  
-React + Tailwind + Laravel platform for buying/selling new/used items  
 
-🔹 **[Blog-Post-App](https://github.com/MohammadKazim2001/university-system)**  
-Next js + Tailwind/Node js + Express js + MongoDB/Team work and code solutions
+🔹 **[mern-ecommerce](https://github.com/MohammadKazim2001/university-system)**  
+React js + Tailwind + Node js + Express js + MongoDB component reusebility and code solutions
 
 ---
 
