@@ -1,7 +1,7 @@
 # Hello, I'm Mohammad Kazim Amiri
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=38BCF7&width=500&lines=Full-Stack+Web+Developer;Laravel+%7C+React+Specialist;Open-Source+Contributor;Problem+Solver+%F0%9F%A7%A0)](https://git.io/typing-svg)
 
-A creative anddetail-oriented Web Developer specializing in modern frontend
+A creative and detail-oriented Web Developer specializing in modern frontend
 development with React.js and Tailwind CSS, and robust backend
 solutions using PHP/Laravel, Node.js, Express.js, and MongoDB. I’m
 passionate about building responsive, intuitive, and visually
