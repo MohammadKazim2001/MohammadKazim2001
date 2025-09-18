@@ -57,8 +57,11 @@ enterprise.
 
 #### 📌 Working Projects  
 
-🔹 **[mern-ecommerce](https://github.com/MohammadKazim2001/university-system)**  
-React js + Tailwind + Node js + Express js + MongoDB component reusebility and code solutions
+🔹 **[Job Portal](https://github.com/MohammadKazim2001)**  
+MERN (React js, Node js, Express js, MongoDB) plus Tailwind component reusebility and code solutions
+🔹 **[School MIS](https://github.com/MohammadKazim2001)**  
+Frontend React js + Tailwind and backend Nest js component reusebility, code solutions, multi role auth and database intergration.
+
 
 ---
 
