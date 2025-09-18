@@ -1,7 +1,7 @@
 # Hello, I'm Mohammad Kazim Amiri
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=38BCF7&width=500&lines=Full-Stack+Web+Developer;Laravel+%7C+React+Specialist;Open-Source+Contributor;Problem+Solver)](https://git.io/typing-svg)
 
-A creative recent Computer Science graduate and passionate Web Developer with hands-on experience in modern frontend technologies — including React.js,
+A creative and recent Computer Science graduate and passionate Web Developer with hands-on experience in modern frontend technologies — including React.js,
 TypeScript, and Tailwind CSS — and backend development using Node.js, Express.js, MongoDB, and PHP/Laravel. Eager to contribute to real-world
 projects , I bring strong problem-solving skills, attention to detail, and a collaborative mindset. Proficient in Git/GitHub and familiar with Agile/Scrum
 workflows, I’m excited to learn from experienced developers, grow through mentorship, and help build scalable, user-focused applications. Fluent in
@@ -23,17 +23,17 @@ enterprise.
 #### Backend & Databases  
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 #### Version Control & Tools
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/-Insomnia-4000BF?style=flat-square&logo=insomnia&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 
 ---
@@ -58,10 +58,10 @@ enterprise.
 #### 📌 Working Projects  
 
 🔹 **[Job Portal](https://github.com/MohammadKazim2001)**  
-MERN (React js, Node js, Express js, MongoDB) plus Tailwind component reusebility and code solutions
+MERN (React js, Node js, Express js, MongoDB) plus Tailwind CSS component reusebility and code solutions.
 <br>
 🔹 **[School MIS](https://github.com/MohammadKazim2001)**  
-Frontend React js + Tailwind and backend Nest js component reusebility, code solutions, multi role auth and database intergration.
+Frontend React js + Tailwind CSS and backend Nest js component reusebility, code solutions, multi role auth and database intergration.
 
 
 ---
