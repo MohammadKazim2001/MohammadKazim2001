@@ -1,17 +1,12 @@
 # Hello, I'm Mohammad Kazim Amiri
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=38BCF7&width=500&lines=Full-Stack+Web+Developer;Laravel+%7C+React+Specialist;Open-Source+Contributor;Problem+Solver+%F0%9F%A7%A0)](https://git.io/typing-svg)
 
-A creative and detail-oriented Web Developer specializing in modern frontend
-development with React.js and Tailwind CSS, and robust backend
-solutions using PHP/Laravel, Node.js, Express.js, and MongoDB. I’m
-passionate about building responsive, intuitive, and visually
-engaging web applications that provide real value to users. With a
-solid foundation in HTML, CSS, JavaScript, and Bootstrap, along with
-strong skills in Git and GitHub for efficient version control and
-collaboration, I continuously refine my abilities to craft
-innovative digital experiences. Eager to apply my expertise,
-problem-solving mindset, and creativity to develop impactful
-solutions.
+A creative recent Computer Science graduate and passionate Web Developer with hands-on experience in modern frontend technologies — including React.js,
+TypeScript, and Tailwind CSS — and backend development using Node.js, Express.js, MongoDB, and PHP/Laravel. Eager to contribute to real-world
+projects , I bring strong problem-solving skills, attention to detail, and a collaborative mindset. Proficient in Git/GitHub and familiar with Agile/Scrum
+workflows, I’m excited to learn from experienced developers, grow through mentorship, and help build scalable, user-focused applications. Fluent in
+English and Dari/Pashto, I’m ready to bring energy, curiosity, and technical skill to your development team — whether you’re a startup, agency, or
+enterprise.
 
 <hr style="height:0.5px; border:none; color:gray; background-color:gray; margin: 4px 0;">
 
