@@ -57,10 +57,7 @@ enterprise.
 
 #### 📌 Working Projects  
 
-🔹 **[Job Portal](https://github.com/MohammadKazim2001)**  
-MERN (React js, Node js, Express js, MongoDB) plus Tailwind CSS component reusebility and code solutions.
-<br>
-🔹 **[School MIS](https://github.com/MohammadKazim2001)**  
+🔹 **[Course MIS](https://github.com/MohammadKazim2001)**  
 Frontend React js + Tailwind CSS and backend Nest js component reusebility, code solutions, multi role auth and database intergration.
 
 
