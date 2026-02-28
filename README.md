@@ -1,5 +1,5 @@
 # Hello, I'm Mohammad Kazim Amiri
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=38BCF7&width=500&lines=Full-Stack+Web+Developer;Laravel+%7C+React+Specialist;Open-Source+Contributor;Problem+Solver)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=38BCF7&width=500&lines=Full-Stack+Web+Developer;Laravel-NestJS+%7C+React+Specialist;Open-Source+Contributor;Problem+Solver)](https://git.io/typing-svg)
 
 A creative and recent Computer Science graduate and passionate Web Developer with hands-on experience in modern frontend technologies — including React.js,
 TypeScript, and Tailwind CSS — and backend development using Node.js, Express.js, MongoDB, and PHP/Laravel. Eager to contribute to real-world
