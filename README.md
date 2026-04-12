@@ -17,6 +17,7 @@ enterprise.
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
 
@@ -25,8 +26,10 @@ enterprise.
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Nest.js](https://img.shields.io/badge/-Nest.js-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 #### Version Control & Tools
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -55,12 +58,11 @@ enterprise.
 
 ---
 
-#### 📌 Working Projects  
+#### Job Status  
 
-🔹 **[Course MIS](https://github.com/MohammadKazim2001)**  
-Frontend React js + Tailwind CSS and backend Nest js component reusebility, code solutions, multi role auth and database intergration.
-
-
+![Open to Work](https://img.shields.io/badge/-Open%20to%20Work-00C853?style=flat-square&logo=github&logoColor=white)
+![Remote](https://img.shields.io/badge/-Remote-0A66C2?style=flat-square&logo=zoom&logoColor=white)
+![On-Site](https://img.shields.io/badge/-On--Site-FF9800?style=flat-square&logo=office&logoColor=white)
 ---
 
 ### 📫 Let's Collaborate!  
