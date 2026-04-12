@@ -1,12 +1,7 @@
 # Hello, I'm Mohammad Kazim Amiri
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=38BCF7&width=500&lines=Full-Stack+Web+Developer;Laravel-NestJS+%7C+React+Specialist;Open-Source+Contributor;Problem+Solver)](https://git.io/typing-svg)
 
-A creative and recent Computer Science graduate and passionate Web Developer with hands-on experience in modern frontend technologies — including React.js,
-TypeScript, and Tailwind CSS — and backend development using Node.js, Express.js, MongoDB, and PHP/Laravel. Eager to contribute to real-world
-projects , I bring strong problem-solving skills, attention to detail, and a collaborative mindset. Proficient in Git/GitHub and familiar with Agile/Scrum
-workflows, I’m excited to learn from experienced developers, grow through mentorship, and help build scalable, user-focused applications. Fluent in
-English and Dari/Pashto, I’m ready to bring energy, curiosity, and technical skill to your development team — whether you’re a startup, agency, or
-enterprise.
+A creative and passionate Web Developer with hands-on experience in modern frontend technologies — specializing in React.js, TypeScript, and Tailwind CSS — and backend development Laravel and Nest.js. Eager to contribute to real-world projects, I bring strong problem-solving skills, attention to detail, and a collaborative mindset. Proficient in Git/GitHub and familiar with Agile/Scrum workflows, I'm excited to learn from experienced developers, grow through mentorship, and help build scalable, user-focused applications. Fluent in English and Persian, I'm ready to bring energy, curiosity, and technical skill to your development team — whether you're a startup, agency, or enterprise.
 
 <hr style="height:0.5px; border:none; color:gray; background-color:gray; margin: 4px 0;">
 
@@ -16,6 +11,7 @@ enterprise.
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
